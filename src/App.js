@@ -1,19 +1,6 @@
 import SimpleList from './components/SimpleList';
 
-const users = [
-  {
-    id: 'a',
-    firstname: 'Robin',
-    lastname: 'Wieruch',
-    year: 1988,
-  },
-  {
-    id: 'b',
-    firstname: 'Dave',
-    lastname: 'Davidds',
-    year: 1990,
-  },
-];
+const myList = ["a", "b", "c", "d", "e", "f"]
 
 
 function App() {
